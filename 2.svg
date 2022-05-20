@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="1896.6" height="1046.99" id="svg7804">
+  <defs id="defs7806">
+    <marker refX="0" refY="0" orient="auto" id="Arrow2Lend" style="overflow: visible;">
+      <path d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z" transform="matrix(-1.1, 0, 0, -1.1, -1.1, 0)" id="path4885" style="font-size: 12px; fill-rule: evenodd; stroke-width: 0.625; stroke-linejoin: round;"/>
+    </marker>
+    <marker refX="0" refY="0" orient="auto" id="Arrow2Lstart" style="overflow: visible;">
+      <path d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z" transform="matrix(1.1, 0, 0, 1.1, 1.1, 0)" id="path4882" style="font-size: 12px; fill-rule: evenodd; stroke-width: 0.625; stroke-linejoin: round;"/>
+    </marker>
+  </defs>
+  <g id="layer1">
+    <g transform="translate(100.431, 1.99931)" id="g7821">
+      <path d="M 0,305 L 1160.474,975 L 1688.7495,670 L 528.2755,0 L 0,305 z" id="court_outline" style="fill: none; stroke: rgb(0, 0, 0);"/>
+    </g>
+    <path d="M 680.66851,641.99931 L 1208.944,336.99931 L 1208.944,181.99931 L 680.66851,486.99931 L 680.66851,641.99931 z" id="net" style="fill: none; stroke: rgb(0, 0, 0);"/>
+    <path d="M 1169.1068,359.99931 L 1169.1068,204.99931" id="net_singles_upper" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 720.50568,618.99931 L 720.50568,463.99931" id="net_singles_lower" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 588.86982,24.999307 L 1749.3439,694.99931" id="singles_sideline_upper" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 1300.7427,953.99931 L 140.26866,283.99931" id="singles_sideline_lower" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 166.24942,344.99931 L 694.52492,39.999307" id="doubles_servicelong_upper" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 1195.0876,938.99931 L 1723.3631,633.99931" id="doubles_servicelong_lower" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 1037.471,237.99931 L 509.19548,542.99931" id="service_short_upper" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 852.14154,740.99931 L 1380.417,435.99931" id="service_short_lower" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 773.33323,390.49931 L 364.56924,154.49931" id="centre_upper" style="stroke: rgb(0, 0, 0);"/>
+    <path d="M 1116.2793,588.49931 L 1525.0433,824.49931" id="centre_lower" style="stroke: rgb(0, 0, 0);"/>
+    <text x="57.3456" y="1401.95" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3825" xml:space="preserve" style="font-size: 12px; text-anchor: middle; font-family: sans;"><tspan x="57.3456" y="1401.95" id="tspan3827" style="font-size: 32px;">Long Service Line for Doubles</tspan></text>
+    <text x="197.231" y="1164.27" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3833" xml:space="preserve" style="font-size: 12px; text-anchor: middle; font-family: sans;"><tspan x="197.231" y="1164.27" id="tspan3835" style="font-size: 32px;">Right</tspan><tspan x="197.231" y="1204.27" id="tspan3837" style="font-size: 32px;">Service</tspan><tspan x="197.231" y="1244.27" id="tspan3839" style="font-size: 32px;">Court</tspan></text>
+    <text x="-72.4381" y="1164.23" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3841" xml:space="preserve" style="font-size: 12px; text-anchor: middle; font-family: sans;"><tspan x="-72.4381" y="1164.23" id="tspan3843" style="font-size: 32px;">Left</tspan><tspan x="-72.4381" y="1204.23" id="tspan3845" style="font-size: 32px;">Service</tspan><tspan x="-72.4381" y="1244.23" id="tspan3847" style="font-size: 32px;">Court</tspan></text>
+    <text x="55.7639" y="1508.91" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3849" xml:space="preserve" style="font-size: 12px; text-anchor: middle; font-family: sans;"><tspan x="55.7639" y="1508.91" id="tspan3851" style="font-size: 32px;">Back Boundary Line</tspan><tspan x="55.7639" y="1548.91" id="tspan3853" style="font-size: 32px;">and Long Service Line for Singles</tspan></text>
+    <text x="-419.623" y="995.038" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3855" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="-419.623" y="995.038" id="tspan3857" style="font-size: 32px;">1.98 m</tspan></text>
+    <text x="-418.513" y="1242.97" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3859" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="-418.513" y="1242.97" id="tspan3861" style="font-size: 32px;">3.96 m</tspan></text>
+    <text x="-419.337" y="1451.65" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3863" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="-419.337" y="1451.65" id="tspan3865" style="font-size: 32px;">0.76 m</tspan></text>
+    <text x="-279.29" y="263.796" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3867" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="-279.29" y="263.796" id="tspan3869" style="font-size: 32px;">0.46 m</tspan></text>
+    <text x="0.848527" y="264.211" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text3871" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="0.848527" y="264.211" id="tspan3873" style="font-size: 32px;">5.18 m</tspan></text>
+    <text x="540.685" y="-57.9998" transform="matrix(0.866025, 0.5, -0.999998, 0.577352, 0, 0)" id="text3875" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="540.685" y="-57.9998" id="tspan3877" style="font-size: 32px;">Centre Line</tspan></text>
+    <text x="479.157" y="-240.006" transform="matrix(0.866025, 0.5, -0.999998, 0.577352, 0, 0)" id="text3879" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="479.157" y="-240.006" id="tspan3881" style="font-size: 32px;">Side Line for Singles</tspan></text>
+    <text x="462.343" y="-321.913" transform="matrix(0.866025, 0.5, -0.999998, 0.577352, 0, 0)" id="text3883" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="462.343" y="-321.913" id="tspan3885" style="font-size: 32px;">Side Line for Doubles</tspan></text>
+    <text x="914.487" y="966.812" transform="matrix(1, -0.577348, 0, 1, 0, 0)" id="text3887" xml:space="preserve" style="font-family: sans;"><tspan x="914.487" y="966.812" id="tspan3889" style="font-size: 32px;">Net</tspan></text>
+    <text x="1257.82" y="971.391" transform="matrix(1, -0.577348, 0, 1, 0, 0)" id="text3891" xml:space="preserve" style="font-family: sans;"><tspan x="1257.82" y="971.391" id="tspan3893" style="font-size: 32px;">1.55 m</tspan></text>
+    <path d="M 58.27178,281.32005 L 98.108948,258.32005" id="path4217" style="stroke: rgb(0, 0, 0); marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 98.102825,258.32359 L 544.36319,0.6750281" id="path4218" style="stroke: rgb(0, 0, 0); stroke-width: 0.994782; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 1252.2264,310.77747 L 1252.2264,158.38877" id="path4219" style="stroke: rgb(0, 0, 0); stroke-width: 0.983153; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 638.36312,667.57187 L 807.61787,765.29115" id="path4220" style="stroke: rgb(0, 0, 0); stroke-width: 0.987063; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 809.93699,766.55507 L 1150.6504,963.26601" id="path4221" style="stroke: rgb(0, 0, 0); stroke-width: 0.99349; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 1152.93,964.66395 L 1216.5748,1001.4093" id="path4222" style="stroke: rgb(0, 0, 0); stroke-width: 0.966982; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <path d="M 1369.5282,1038.3737 L 1895.4611,734.72623" id="path4223" style="stroke: rgb(0, 0, 0); stroke-width: 0.995565; marker-start: url(&quot;#Arrow2Lstart&quot;); marker-mid: none; marker-end: url(&quot;#Arrow2Lend&quot;);"/>
+    <text x="17.7178" y="1616.73" transform="matrix(0.866025, -0.5, 0.999998, 0.577352, 0, 0)" id="text6677" xml:space="preserve" style="font-size: 12px; font-family: sans;"><tspan x="17.7178" y="1616.73" id="tspan6679" style="font-size: 32px;">6.1 m</tspan></text>
+  </g>
+</svg>
